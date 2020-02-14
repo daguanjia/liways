@@ -1,0 +1,2 @@
+# liways
+a simple cli
